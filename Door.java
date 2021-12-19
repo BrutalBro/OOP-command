@@ -5,7 +5,7 @@ public class Door {
 		if (!isOpen) {
 			isOpen = true;
 
-			System.out.println("Opening door...");
+			System.out.println("Opening boy door...");
 		}
 	}
 
@@ -13,7 +13,7 @@ public class Door {
 		if (isOpen) {
 			isOpen = false;
 
-			System.out.println("Closing door...");
+			System.out.println("Closing boy door...");
 		}
 	}
 
